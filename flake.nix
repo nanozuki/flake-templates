@@ -1,5 +1,5 @@
 {
-  outputs = {
+  outputs = { ... }: {
     templates = {
       default = {
         path = ./default;
