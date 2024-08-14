@@ -19,6 +19,7 @@
             poetry
             pyright
             python3
+            ruff
           ];
         };
       };
