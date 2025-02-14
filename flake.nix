@@ -13,6 +13,10 @@
         path = ./poetry;
         description = "A python poetry project";
       };
+      svelte = {
+        path = ./svelte;
+        description = "A svelte project";
+      };
     };
   };
 }
